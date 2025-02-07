@@ -1,13 +1,12 @@
 # Economist - Data Analyst
+#### Technical Skills: Python, SQL, AWS, Snowflake
 
-### Education
-Msc. in Economics
+## Education
 
-### Work Experience
-Monitoring and Measurement Director @ Escalera Foundation Mexico
-- Point 1
-- Point 2
 
-### Projects
-Project 1
+## Work Experience
+**Data Scientist**
 
+
+## Projects
+### Data-Driven
