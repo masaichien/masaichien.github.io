@@ -20,6 +20,7 @@ author: Ricardo M. Solis
 ###############################################
 
 navbar-links:
+  Home: "home"
   About Me: "aboutme"
   Resume: "resume"
   Projects: "project"
