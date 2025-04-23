@@ -37,5 +37,3 @@ Graduated by GPA: 93.59 of 100 Interests: Econometrics, Microeconomics, Macroeco
 
 
 
-
-
