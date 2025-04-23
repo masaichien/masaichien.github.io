@@ -17,7 +17,7 @@ With proficiency in R, Python, SQL, Power BI, and Excel, I build clear, impactfu
   - New program created with USAID’s support and implemented
 - Program data and best practices were synthesized into publications, presentations, and reports to communicate program results and impact to stakeholders.
 - Collaboration with partners ensured the accuracy and effectiveness of messaging, building support for programs and strengthening relationships with the community.
-  
+
 ### Data Analyst - Escalera Foundation Mexico 2021 - 2022
 - The creation of instruments and surveys for data collection, along with data cleaning and analysis for distinct programs of Escalera for 3000+ students and 100+ schools, enabled the organization to gain valuable insights.
 - The development of best data collection and storage practices within the organization ensured that data was accurate and accessible for analysis.
