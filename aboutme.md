@@ -10,8 +10,8 @@ Our organization supports students from rural areas in Los Altos de Chiapas—ma
 I'm passionate about using data for good and have led projects where smart analysis and thoughtful monitoring have made a tangible difference.
 
 Current reading: 
-- Data Modeling Essentials | Graeme Simons | Ch3
-- Developing Monitoring and Evaluation Frameworks | Anne Markiewicz and Ian Patrick | Ch4
+- Data Modeling Essentials                          | Graeme Simons | Ch3
+- Developing Monitoring and Evaluation Frameworks   | Anne Markiewicz and Ian Patrick | Ch4
 - Data Analysis for Business, Economics, and Policy | Gábor Békés and Gábor Kézdi | Just starting...
 
 
