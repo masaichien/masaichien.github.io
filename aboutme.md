@@ -5,14 +5,12 @@ subtitle: Economist and Data Enthusiast
 ---
 
 ## Overview 
-I firmly believe that data has the power to transform realities. I currently work as the Director of Monitoring and Measurement at [Escalera Foundation Mexico](https://escalera.org/), an organization dedicated to supporting students from rural areas in Los Altos de Chiapas, most of whom come from indigenous communities. 
-My main responsibility is to lead data analysis and management processes to ensure that every decision we make is backed by evidence and creates real impact.
-With proficiency in R, Python, SQL, Power BI, and Excel, I build clear, impactful dashboards and reports that drive smarter decisions.  Passionate about social impact, I’ve led projects that make a real difference through analysis and effective monitoring.
+I firmly believe that data has the power to transform realities. As Director of Monitoring and Measurement at Escalera Foundation Mexico, I lead the data and evaluation efforts to ensure every decision we make is grounded in evidence and creates real impact. Our organization supports students from rural areas in Los Altos de Chiapas—many from indigenous communities—empowering them to continue their education. With a strong command of R, Python, SQL, Power BI, and Excel, I design clear, actionable dashboards and reports that inform strategy and drive meaningful change. I'm passionate about using data for good and have led projects where smart analysis and thoughtful monitoring have made a tangible difference.
 
 ## Experience
 
 ### M&E Director - Escalera Foundation Mexico | 2022 - Present
-- 
+- Led the transition from Excel to SQL by designing and developing a relational data model, ensuring scalability and data integrity, and enabling the creation of automated, data-driven products.
 - Collaborated with department leaders to analyze outcome deviations, identify improvements, and develop data-informed strategies and metrics, contributing to a 10% growth in supported students across programs.
 - Implemented data-driven processes and standardized templates that enhanced performance and enabled departments to meet their goals more effectively.
   - Increased the percentage of beneficiaries with effective access to Escalera’s support by 15%.
