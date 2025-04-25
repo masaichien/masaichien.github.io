@@ -4,8 +4,10 @@ title: About me
 subtitle: Economist and Data Enthusiast
 ---
 
-I'm Ricardo, I firmly believe that data has the power to transform realities. I currently work as the Director of Monitoring and Measurement at [Escalera Foundation Mexico](https://escalera.org/), an organization dedicated to supporting students from rural areas in Los Altos de Chiapas, most of whom come from Indigenous communities. My main responsibility is to lead data analysis and management processes to ensure that every decision we make is backed by evidence and creates real impact.
-With proficiency in R, Python, SQL, Power BI, and Excel, I build clear, impactful dashboards and reports that drive smarter decisions.  Passionate about social impact.  I’ve led projects that make a real difference through analysis and effective monitoring.
+## Overview 
+I firmly believe that data has the power to transform realities. I currently work as the Director of Monitoring and Measurement at [Escalera Foundation Mexico](https://escalera.org/), an organization dedicated to supporting students from rural areas in Los Altos de Chiapas, most of whom come from indigenous communities. 
+My main responsibility is to lead data analysis and management processes to ensure that every decision we make is backed by evidence and creates real impact.
+With proficiency in R, Python, SQL, Power BI, and Excel, I build clear, impactful dashboards and reports that drive smarter decisions.  Passionate about social impact, I’ve led projects that make a real difference through analysis and effective monitoring.
 
 ## Experience
 
