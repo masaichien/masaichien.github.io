@@ -20,6 +20,7 @@ With proficiency in R, Python, SQL, Power BI, and Excel, I build clear, impactfu
 - The design of data-driven programs and services resulted in effective and impactful initiatives.
   - New program created with USAID and Fhi360 (Family Health International) support: [Local Learning Units](https://escalera.org/our-work/local-learning-units/)
 - Program data and best practices were synthesized into publications, presentations, and reports to communicate program results and impact to stakeholders.
+
 [comment]: # (- Collaboration with partners ensured the accuracy and effectiveness of messaging, building support for programs and strengthening relationships with the community.)
 
 ### Data Analyst - Escalera Foundation Mexico 2021 - 2022
