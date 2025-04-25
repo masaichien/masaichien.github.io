@@ -10,6 +10,7 @@ Our organization supports students from rural areas in Los Altos de Chiapas—ma
 I'm passionate about using data for good and have led projects where smart analysis and thoughtful monitoring have made a tangible difference.
 
 Current readings: 
+
 | Book Title                                       | Author(s)                         | Progress         |
 |--------------------------------------------------|------------------------------------|------------------|
 | Data Modeling Essentials                         | Graeme Simons                      | Ch3              |
@@ -32,11 +33,10 @@ Current readings:
 [comment]: # (- Collaboration with partners ensured the accuracy and effectiveness of messaging, building support for programs and strengthening relationships with the community.)
 
 ### Data Analyst - Escalera Foundation Mexico 2021 - 2022
-- The creation of instruments and surveys for data collection, along with data cleaning and analysis for distinct programs of Escalera for 3000+ students and 100+ schools, enabled the organization to gain valuable insights.
-- The development of best data collection and storage practices within the organization ensured that data was accurate and accessible for analysis.
-- The creation of informative reports for stakeholders, both inside and outside Fundación Escalera, facilitated effective communication of the organization’s progress and impact.
-
-Altogether, these efforts resulted in the ability to make informed decisions, measure program effectiveness, and continuously improve operations to better serve the community.
+- Designed and implemented data collection instruments and surveys for 3,000+ students across 100+ schools, enabling actionable insights for program improvement.
+- Established best practices for data collection and storage, ensuring accuracy, consistency, and accessibility across the organization.
+- Produced informative reports and visualizations to communicate progress and impact to internal teams and external stakeholders.
+- Supported evidence-based decision-making and continuous improvement through rigorous data analysis and monitoring.
 
 
 ## Education
