@@ -28,11 +28,13 @@ Altogether, these efforts resulted in the ability to make informed decisions, me
 
 ## Education
 ### Economic Research and Teaching Center (CIDE), A.C.
-MSc. in Economics
+#### MSc. in Economics
 Thesis: The relationship between the economic cycle and crime: A spatial approach.
-Skills: spatial econometrics, time series, data manipulation, data transformation, data management, R programming, statistical analysis.
+Courses: Macroeconomics, Microeconomics, Econometrics, Microeconometrics, Time Series, Development Economics, Mathematics, Statistics
+Skills: Spatial econometrics, time series, data manipulation, data transformation, data management, R programming, statistical analysis.
+
 ### Autonomous University of Baja California, Tijuana Campus
-BA. in Economics
+#### BA. in Economics
 Graduated by GPA: 93.59 of 100 Interests: Econometrics, Microeconomics, Macroeconomics, Statistics.
 
 
