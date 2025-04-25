@@ -8,9 +8,9 @@ subtitle: Economist and Data Enthusiast
 I firmly believe that data has the power to transform realities. As Director of Monitoring and Measurement at Escalera Foundation Mexico, I lead the data and evaluation efforts to ensure every decision we make is grounded in evidence and creates real impact. Our organization supports students from rural areas in Los Altos de Chiapas—many from indigenous communities—empowering them to continue their education. With a strong command of R, Python, SQL, Power BI, and Excel, I design clear, actionable dashboards and reports that inform strategy and drive meaningful change. I'm passionate about using data for good and have led projects where smart analysis and thoughtful monitoring have made a tangible difference.
 
 Current reading: 
-- Data Modeling Essentials | Graeme Simons - Ch3
-- Developing Monitoring and Evaluation Frameworks | Anne Markiewicz and Ian Patrick - Ch4
-- Data Analysis for Business, Economics, and Policy | Gábor Békés and Gábor Kézdi - Just starting...
+- Data Modeling Essentials | Graeme Simons | Ch3
+- Developing Monitoring and Evaluation Frameworks | Anne Markiewicz and Ian Patrick | Ch4
+- Data Analysis for Business, Economics, and Policy | Gábor Békés and Gábor Kézdi | Just starting...
 
 
 ## Experience
