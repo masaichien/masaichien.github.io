@@ -47,5 +47,6 @@ Altogether, these efforts resulted in the ability to make informed decisions, me
 Graduated by GPA: 93.59 of 100 
 **Interests**: Econometrics, Microeconomics, Macroeconomics, Time Series, Statistics.
 
-
+## Online Courses
+Check out my [LinkedIn profile](https://www.linkedin.com/in/rmasahiro/) to see the free and paid online courses I've done. The course I'm doing now is Kris Naik's [Complete Data Science,Machine Learning,DL,NLP Bootcamp](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/)
 
